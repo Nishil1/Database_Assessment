@@ -1,0 +1,28 @@
+<mxfile host="app.diagrams.net" modified="2023-04-29T21:39:07.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="FSc-SDyy8s7MtgijzkR4" version="21.2.3" type="onedrive">
+  <diagram name="Page-1" id="MWTQpcxBz-S2mWnCmliu">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="ZYTQKcDuAaSAM1e6wNFF-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="790" height="470" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYTQKcDuAaSAM1e6wNFF-2" value="Orchid image&lt;br&gt;(feathered on the right)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFCbfc;" vertex="1" parent="1">
+          <mxGeometry x="20" y="140" width="140" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYTQKcDuAaSAM1e6wNFF-3" value="Vanilla Reading Log(D5E8D4)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="170" y="140" width="640" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYTQKcDuAaSAM1e6wNFF-4" value="&lt;font color=&quot;#ffffff&quot;&gt;&amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp; &amp;nbsp;Home | Contact&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#383838;align=left;" vertex="1" parent="1">
+          <mxGeometry x="21" y="240" width="790" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYTQKcDuAaSAM1e6wNFF-5" value="&lt;br&gt;&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; float: none; display: inline !important;&quot;&gt;&lt;b&gt;Search&lt;br&gt;&lt;/b&gt;&lt;/span&gt;- Search by title&lt;br&gt;- Search by author&lt;br&gt;- Search by genre&lt;br&gt;- Search by rating" style="rounded=0;whiteSpace=wrap;html=1;align=center;fillColor=#DAE8FC;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="20" y="280" width="140" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="ZYTQKcDuAaSAM1e6wNFF-6" value="dfcbfc" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#DFCBFC;" vertex="1" parent="1">
+          <mxGeometry x="170" y="280" width="640" height="330" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
